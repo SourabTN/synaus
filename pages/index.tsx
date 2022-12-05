@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Synaus</title>
+        <title>Mentors</title>
         <meta name="description" content="Developed by Nazmul H. Sourab" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
